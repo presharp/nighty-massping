@@ -7,4 +7,4 @@ Thanks to the key I was given a while back ago
 # Installation instructions
 - You need Nighty and the paid version of it
 - Put it into your custom scripts folder
-- Run command .flyscr <message to ping everyone will>
+- Run command .mping <message to ping everyone will>
